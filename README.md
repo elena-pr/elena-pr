@@ -1,10 +1,14 @@
 # About Me:
-👋 Hi, I’m Elena Pro, a PhD Candidate at the LSE European Institute.
-👀 I’m interested in political behaviour, political identities and the affective dimension of politics in Europe.
-I’m currently learning causal inference with observational data.
-I’m looking to collaborate on ...
- 📫 Contact me on e.pro@lse.ac.uk
-😄 Pronouns: she/her
+- 👋 Hi, I’m Elena Pro, a PhD Candidate at the LSE European Institute.
+
+- 👀 I’m interested in political behaviour, political identities and the affective dimension of politics in Europe.
+
+- I’m currently learning causal inference with observational data.
+
+- I’m looking to collaborate any project related to the aforementioned topics.
+
+-  📫 Contact me on e.pro@lse.ac.uk
+- 😄 Pronouns: she/her
 
 
 <!---
