@@ -5,7 +5,7 @@
 
 - I’m currently learning causal inference with observational data.
 
-- I’m looking to collaborate any project related to the aforementioned topics.
+- I’m looking to collaborate on any project related to the aforementioned topics.
 
 -  📫 Contact me on e.pro@lse.ac.uk. Check out [My Website](https://sites.google.com/view/elena-pro/) and my [Twitter](https://twitter.com/elenapro0)
 - 😄 Pronouns: she/her
