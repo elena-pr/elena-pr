@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on any project related to the aforementioned topics.
 
--  📫 Contact me on e.pro@lse.ac.uk. Check out [My Website](https://sites.google.com/view/elena-pro/) and my [Twitter](https://twitter.com/elenapro0)
+-  📫 Contact me on e.pro@lse.ac.uk. Check out [My Website](https://www.elenapro.eu/) and my [Twitter](https://twitter.com/elenapro0)
 - 😄 Pronouns: she/her
 
 
